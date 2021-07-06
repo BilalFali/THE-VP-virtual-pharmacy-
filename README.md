@@ -2,11 +2,13 @@
 
 Virtual pharmacy is a mobile application for donating medicines to patients.
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-<img src="https://github.com/BilalFali/the_vp/blob/de9f4a40bd15b5042303efe46b08f5b52a52dbef/screenshots/Screenshot_2021-07-05-20-52-51-043_com.example.the_vp.jpg" alt="alt text" width="200" height="300">  |  <img src="https://github.com/BilalFali/the_vp/blob/de9f4a40bd15b5042303efe46b08f5b52a52dbef/screenshots/Screenshot_2021-07-05-20-53-16-671_com.example.the_vp.jpg" alt="alt text" width="200" height="300">
 
 
+<p float="left">
+ <img src="https://github.com/BilalFali/the_vp/blob/de9f4a40bd15b5042303efe46b08f5b52a52dbef/screenshots/Screenshot_2021-07-05-20-52-51-043_com.example.the_vp.jpg" alt="alt text" width="200" height="300"> 
+  <img src="https://github.com/BilalFali/the_vp/blob/de9f4a40bd15b5042303efe46b08f5b52a52dbef/screenshots/Screenshot_2021-07-05-20-53-16-671_com.example.the_vp.jpg" alt="alt text" width="200" height="300">
+ 
+</p>
 
 ## Getting Started
 
