@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262492813699",
+    "project_id": "thevp-42ab0",
+    "storage_bucket": "thevp-42ab0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262492813699:android:e20834dcaaf89f35d69eb6",
+        "android_client_info": {
+          "package_name": "com.example.the_vp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262492813699-u9hhrc1tqg5l9sqvs4suh81ma05a3p7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS3ytrHEMwcdEowGZ2Wr13wJq6qm3kX_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262492813699-u9hhrc1tqg5l9sqvs4suh81ma05a3p7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
