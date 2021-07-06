@@ -1,6 +1,6 @@
 # the_vp
 
-A new Flutter project.
+Virtual pharmacy is a mobile application for donating medicines to patients.
 
 ## Getting Started
 
