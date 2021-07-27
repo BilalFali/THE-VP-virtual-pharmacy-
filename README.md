@@ -1,5 +1,4 @@
 # the_vp
-
 Virtual pharmacy is a mobile application for donating medicines to patients.
 
 
